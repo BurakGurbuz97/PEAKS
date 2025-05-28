@@ -1,0 +1,29 @@
+2025-05-28 18:13:23,296 - Starting experiment: cifar100_10k_PEAKS_seed_0
+2025-05-28 18:13:27,852 - Initialization Phase: Creating initial training set T_0
+2025-05-28 18:13:31,491 - Training on initial training set T_0
+2025-05-28 18:15:01,558 - Initial training completed. Updates remaining: 1900
+2025-05-28 18:15:01,558 - Time spend: 0.0000
+2025-05-28 18:15:01,559 - Decision rate: nan
+2025-05-28 18:15:01,559 - Initial training sleep step completed.
+2025-05-28 18:15:01,559 - Starting Data Selection Phase
+2025-05-28 18:17:18,914 - Time spend: 47.4685
+2025-05-28 18:17:18,915 - Decision rate: 0.0632
+2025-05-28 18:17:18,915 - Sleep step completed. Sleep clock s = 1
+2025-05-28 18:19:18,320 - Time spend: 29.5211
+2025-05-28 18:19:18,320 - Decision rate: 0.1139
+2025-05-28 18:19:18,320 - Sleep step completed. Sleep clock s = 2
+2025-05-28 18:21:13,482 - Time spend: 25.3344
+2025-05-28 18:21:13,482 - Decision rate: 0.1395
+2025-05-28 18:21:13,482 - Sleep step completed. Sleep clock s = 3
+2025-05-28 18:23:07,410 - Time spend: 23.8634
+2025-05-28 18:23:07,411 - Decision rate: 0.1526
+2025-05-28 18:23:07,411 - Sleep step completed. Sleep clock s = 4
+2025-05-28 18:24:58,568 - Time spend: 21.0860
+2025-05-28 18:24:58,568 - Decision rate: 0.1730
+2025-05-28 18:24:58,568 - Sleep step completed. Sleep clock s = 5
+2025-05-28 18:26:50,146 - Time spend: 21.6671
+2025-05-28 18:26:50,147 - Decision rate: 0.1753
+2025-05-28 18:26:50,147 - Sleep step completed. Sleep clock s = 6
+2025-05-28 18:28:42,257 - Time spend: 22.1062
+2025-05-28 18:28:42,257 - Decision rate: 0.1801
+2025-05-28 18:28:42,257 - Sleep step completed. Sleep clock s = 7
