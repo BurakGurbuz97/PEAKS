@@ -5,7 +5,7 @@ ICML 2025 -- PEAKS: Selecting Key Training Examples Incrementally via Prediction
 
 ![PEAKS](main_figure.png)
 
-![PEAKS](peaks_animation-faster.gif)
+<img src="peaks_animation-faster.gif" alt="PEAKS" style="max-width:25%; height:auto;">
 
 # Setup
 Run ```conda env create -f environment.yml -n peaks_icml2025``` to create the enviroment.
